@@ -2,6 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageId>Pradana.ReactiveUI.XamForms</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Albilaga Linggra Pradana</Authors>
+    <Owners>Albilaga Linggra Pradana</Owners>
+    <Title>Opiniated Commons Library For ReactiveUI.XamForms</Title>
+    <PackageDescription>Opiniated Commons Library For ReactiveUI.XamForms</PackageDescription>
+    <PackageTags>Commons ReactiveUI Xamarin Forms</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/albilaga/Pradana.ReactiveUI.XamForms</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/albilaga/Pradana.ReactiveUI.XamForms</RepositoryUrl>
+    <PackageOutputPath>..\output</PackageOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
