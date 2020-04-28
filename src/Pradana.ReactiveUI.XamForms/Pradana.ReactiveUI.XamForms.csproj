@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ReactiveUI.XamForms" Version="11.3.8" />
+    <PackageReference Include="Sextant.XamForms" Version="2.5.8" />
+    <PackageReference Include="Pradana.ReactiveUI.Commons" Version="1.0.1" />
+    <PackageReference Include="Acr.UserDialogs" Version="7.1.0.442" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Extensions\" />
+    <Folder Include="Infrastructure\" />
+  </ItemGroup>
+</Project>
