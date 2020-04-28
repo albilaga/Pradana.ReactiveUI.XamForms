@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Reactive;
+using System.Reactive.Disposables;
 using System.Threading.Tasks;
 using Acr.UserDialogs;
 using Pradana.ReactiveUI.Commons;
